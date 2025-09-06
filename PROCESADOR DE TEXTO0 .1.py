@@ -10,7 +10,7 @@ import time
 
 # ---------------------------
 # Configura tu API Key
-client = OpenAI(api_key="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")
+client = OpenAI(AQUI VA TU KEY_API")
 # ---------------------------
 
 CONFIG_FILE = "last_folder.txt"
